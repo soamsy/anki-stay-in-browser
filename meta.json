@@ -1,0 +1,17 @@
+{
+    "config": {
+        "Copy log": true,
+        "Preserve creation time": false,
+        "Preserve ease, due, interval...": false,
+        "shortcut-copy": "Ctrl+C",
+        "correct import": true,
+        "current tag prefix": "relation_",
+        "fields to leave empty in copy": [],
+        "leave all fields empty in copy": true,
+        "relate copies": false,
+        "tag for copies": "Copy",
+        "tag prefixes": [
+            "relation_"
+        ]
+    }
+}
