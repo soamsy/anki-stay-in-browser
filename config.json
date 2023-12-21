@@ -10,8 +10,7 @@
   ],
   "relate copies": false,
   "post-copy-tags": [
-    "Copy",
-    "Test"
+    "Copy"
   ],
   "fields to leave empty in copy": [],
   "leave all fields empty in copy": false

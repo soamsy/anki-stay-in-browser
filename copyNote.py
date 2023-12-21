@@ -31,9 +31,9 @@ from anki.utils import guid64
 from aqt import mw
 from aqt.browser.browser import Browser
 from aqt.utils import showWarning, tooltip
-from PyQt5.QtCore import *
-from PyQt5.QtGui import *
-from PyQt5.QtWidgets import *
+from PyQt6.QtCore import *
+from PyQt6.QtGui import *
+from PyQt6.QtWidgets import *
 
 from .config import getUserOption
 from .new_note_id import add_note_with_id
